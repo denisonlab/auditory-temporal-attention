@@ -1,5 +1,7 @@
 # auditory-temporal-attention
 
+[![DOI](https://zenodo.org/badge/1455887090.svg)](https://doi.org/10.5281/zenodo.24179008)
+
 This repository contains the experimental and analysis code (`code/`) and behavioral data (`data/`) associated with the paper:<br>
 
 ### Temporal cueing improves auditory perception with no evidence for attentional tradeoffs
